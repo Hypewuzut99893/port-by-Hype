@@ -35,7 +35,6 @@ import flixel.FlxSubState;
 import flixel.addons.display.FlxGridOverlay;
 
 import flixel.addons.effects.FlxTrail;
-
 import flixel.addons.effects.FlxTrailArea;
 
 import flixel.addons.effects.chainable.FlxEffectSprite;
@@ -44,7 +43,7 @@ import flixel.addons.effects.chainable.FlxWaveEffect;
 
 import flixel.addons.transition.FlxTransitionableState;
 
-import flixel.graphics.atlas.FlxAtlas;
+import flixel.graphics.atlas.FlxAtla
 
 import flixel.graphics.frames.FlxAtlasFrames;
 
@@ -54,7 +53,7 @@ import flixel.math.FlxMath;
 
 import flixel.math.FlxPoint;
 
-import flixel.math.FlxRect;
+import flixel.math.FlxRect
 
 import flixel.system.FlxSound;
 
@@ -63,7 +62,6 @@ import flixel.text.FlxText;
 import flixel.tweens.FlxEase;
 
 import flixel.tweens.FlxTween;
-
 import flixel.ui.FlxBar;
 
 import flixel.util.FlxCollision;
@@ -10564,4 +10562,3 @@ var creditTxt = new FlxText(876, 648, 348);
 
 	var curLightEvent:Int = -1;
 
-}
